@@ -1,0 +1,11 @@
+{
+    "task_name": "codeAutoProgressTwo",
+    "task_id": 52,
+    "description": "make auto progress using git, github, and gemini",
+    "student": {
+        "firstName": "test500",
+        "lastName": "test500",
+        "id": "ac7ed6ba-62ab-439c-a860-3b126ebe7dd1"
+    },
+    "cloned": false
+}
